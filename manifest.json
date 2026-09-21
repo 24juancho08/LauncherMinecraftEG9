@@ -5,1102 +5,1102 @@
   "mods": [
     {
       "filename": "AI-Improvements-1.21-0.5.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/AI-Improvements-1.21-0.5.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/AI-Improvements-1.21-0.5.3.jar",
       "sha256": "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e"
     },
     {
       "filename": "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
       "sha256": "a24674330b8de59a02e0ebe4dd81fcff15d90e8c1cdcc32980d73c1cab050933"
     },
     {
       "filename": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Almanac-1.21.1-2-neoforge-1.5.2.jar",
       "sha256": "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb"
     },
     {
       "filename": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
       "sha256": "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b"
     },
     {
       "filename": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/BetterF3-11.0.3-NeoForge-1.21.1.jar",
       "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
     },
     {
       "filename": "BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
       "sha256": "07f449b7766845883523ffadb8fb706ec011c1212aa378b48bea5841188f0b04"
     },
     {
       "filename": "Camerapture-1.10.12+mc1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Camerapture-1.10.12+mc1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Camerapture-1.10.12+mc1.21.1-neoforge.jar",
       "sha256": "053e003d136876bbde786a701e504495a47e48cf3cd176d2ab29120ce99d92d2"
     },
     {
       "filename": "Chunky-NeoForge-1.4.23.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Chunky-NeoForge-1.4.23.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Chunky-NeoForge-1.4.23.jar",
       "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
     },
     {
       "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
     },
     {
       "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Controlling-neoforge-1.21.1-19.0.5.jar",
       "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
     },
     {
       "filename": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
       "sha256": "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3"
     },
     {
       "filename": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
       "sha256": "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90"
     },
     {
       "filename": "CreateDragonsPlus-1.10.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/CreateDragonsPlus-1.10.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/CreateDragonsPlus-1.10.1.jar",
       "sha256": "a192bc7074232e6e6a4acc7620a66f28a1fa314235ef2648edae034b1434b428"
     },
     {
       "filename": "CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
       "sha256": "ba59a5a0afaba5d7d70c4b5844df2952696af1d5040c800916bd3479a73487c0"
     },
     {
       "filename": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
       "sha256": "dcd0e562710a639b4fdd60a7500dc9404c6fbd1007215a088248ce1c57ccc6dc"
     },
     {
       "filename": "EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
       "sha256": "e641a83dcd0dd1a66c545069a706349df94f5b64dc5a252944596439009a699f"
     },
     {
       "filename": "EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
       "sha256": "9976385a5993fd1c5d8b029aad5ac100e67a218c28fc7c9eb0ba59557f860ed8"
     },
     {
       "filename": "Emojiful-Neoforge-1.21-5.2.2-all.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Emojiful-Neoforge-1.21-5.2.2-all.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Emojiful-Neoforge-1.21-5.2.2-all.jar",
       "sha256": "a12bcd3a6ece119ea7f7a014ec2de57fdf51fffa8789fc9ac05fde7a638abf36"
     },
     {
       "filename": "Essential_1-3-10-9_neoforge_1-21-1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Essential_1-3-10-9_neoforge_1-21-1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Essential_1-3-10-9_neoforge_1-21-1.jar",
       "sha256": "db4223235450ed06796546bdd6592dde66f935b2053639accde4680a7a1c6830"
     },
     {
       "filename": "FallingTree-1.21.1-1.21.1.11.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/FallingTree-1.21.1-1.21.1.11.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/FallingTree-1.21.1-1.21.1.11.jar",
       "sha256": "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
     },
     {
       "filename": "FarmersDelight-1.21.1-1.3.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/FarmersDelight-1.21.1-1.3.2.jar",
       "sha256": "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
     },
     {
       "filename": "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
       "sha256": "e831a12ca075450295aa26c8862d641498f8031af10674d60a791d2f27be17be"
     },
     {
       "filename": "Fastquit-3.0.1+1.21.1neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Fastquit-3.0.1+1.21.1neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Fastquit-3.0.1+1.21.1neoforge.jar",
       "sha256": "e29f70b01e9047ffab05d3f3c5d48cc497a87a246acfa3932dc99aa8f584768d"
     },
     {
       "filename": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
       "sha256": "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae"
     },
     {
       "filename": "Highlighter-1.21-neoforge-1.1.11.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Highlighter-1.21-neoforge-1.1.11.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Highlighter-1.21-neoforge-1.1.11.jar",
       "sha256": "cc9480a383a8f9bcf2c6c3bfc913aa7e3b1b9ad1062c5180c4d0d281000c9f8b"
     },
     {
       "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Iceberg-1.21.1-neoforge-1.3.2.jar",
       "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
     },
     {
       "filename": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
       "sha256": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
     },
     {
       "filename": "Incendium_1.21.x_v5.4.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Incendium_1.21.x_v5.4.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Incendium_1.21.x_v5.4.4.jar",
       "sha256": "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4"
     },
     {
       "filename": "ItemPhysicLite_NEOFORGE_v1.6.10_mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/ItemPhysicLite_NEOFORGE_v1.6.10_mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/ItemPhysicLite_NEOFORGE_v1.6.10_mc1.21.1.jar",
       "sha256": "0f005e5274f9920d4fe6014a179eeaae6280c184d34b3add775abea73969109f"
     },
     {
       "filename": "Ixeris-4.4.0+1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Ixeris-4.4.0+1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Ixeris-4.4.0+1.21.1-neoforge.jar",
       "sha256": "13ad9292cdf1806270cee53de8a4afa7feb56b9b1daeb46c66f81d92a9856bd5"
     },
     {
       "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Jade-1.21.1-NeoForge-15.10.5.jar",
       "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
     },
     {
       "filename": "KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar",
       "sha256": "fba0188f1998a894f49f43fd718910dea97aa11c3a4b9553f5d0ba0767354d93"
     },
     {
       "filename": "Ksyxis-1.4.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Ksyxis-1.4.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Ksyxis-1.4.3.jar",
       "sha256": "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9"
     },
     {
       "filename": "L_Ender's Cataclysm 1.21.1-3.32.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/L_Ender's Cataclysm 1.21.1-3.32.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/L_Ender's Cataclysm 1.21.1-3.32.jar",
       "sha256": "679c8687281cdac01e80de1672f27db1baf6ad5c68c74d752806b9d5ce246ac3"
     },
     {
       "filename": "MetalBundles-v21.1.1-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/MetalBundles-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/MetalBundles-v21.1.1-1.21.1-NeoForge.jar",
       "sha256": "8099bd4003481a731bb48230d77d2734771832c74adc51b106793519e174118c"
     },
     {
       "filename": "Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar",
       "sha256": "254adf32afefc94a26505a79b66a64907bf07eb6e2a5890b9dd52a913fa53130"
     },
     {
       "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
     },
     {
       "filename": "Northstar-0.5.4+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Northstar-0.5.4+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Northstar-0.5.4+1.21.1.jar",
       "sha256": "60df8f09df05152d3f686397e78d079667de710e4a0572677cb5147d06c5d09b"
     },
     {
       "filename": "Nullscape_1.21.x_v1.2.14.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Nullscape_1.21.x_v1.2.14.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Nullscape_1.21.x_v1.2.14.jar",
       "sha256": "8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae"
     },
     {
       "filename": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
       "sha256": "571feb4d223ee2b5661ed3450ea5c68db18627badcef4d59095a329fc03a7685"
     },
     {
       "filename": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
       "sha256": "b49535698de9c7b5a879c8ec99175771d87d5261d5cc4c6152ba1fa51fc5676a"
     },
     {
       "filename": "Platform-neoforge-1.21.1-1.3.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Platform-neoforge-1.21.1-1.3.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Platform-neoforge-1.21.1-1.3.3.jar",
       "sha256": "2d7175e43943d22cbb4f8d4533f0ad620f87a3ac12c77a4f15c3a35d965c4f18"
     },
     {
       "filename": "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
       "sha256": "bb0f482c43156e9fbdea8e6309c707c62f301d673e5e5e5b268315d0b9272276"
     },
     {
       "filename": "PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
       "sha256": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a"
     },
     {
       "filename": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
       "sha256": "f1ccc760f11c203cb9dc6f05f5bddc10d5eb616a611a2bd289389ca15a856705"
     },
     {
       "filename": "Resourcify (1.21.1-neoforge)-1.8.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Resourcify (1.21.1-neoforge)-1.8.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Resourcify (1.21.1-neoforge)-1.8.1.jar",
       "sha256": "b159a2ac63a369eeace652ff305391ed6d4c14fc51e13bcc6b8a7dc2ae8691b6"
     },
     {
       "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/Searchables-neoforge-1.21.1-1.0.2.jar",
       "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
     },
     {
       "filename": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
       "sha256": "db5182afe9197044916d364b69cd70139457f92859b0bf4f4bb76c3f42360a65"
     },
     {
       "filename": "TAB v5.5.0 1.20.5 - 1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/TAB v5.5.0 1.20.5 - 1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/TAB v5.5.0 1.20.5 - 1.21.1.jar",
       "sha256": "abadbe8cf11b0736fdf3cdbac22a0518590acd118813983e99a6d16e9b94d985"
     },
     {
       "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "sha256": "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
     },
     {
       "filename": "TotemFactory-1.1.2+mc1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/TotemFactory-1.1.2+mc1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/TotemFactory-1.1.2+mc1.21.1-NeoForge.jar",
       "sha256": "52215b2b0604710dc23182cdab9ed8ea19b357969cbb323d0ff2ec49a35e2edc"
     },
     {
       "filename": "TradingPost-v21.1.1-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/TradingPost-v21.1.1-1.21.1-NeoForge.jar",
       "sha256": "655e6d187ac592caeac02e37a0325d5d5cfeee48a043c4e4a9d0e02366afc1b6"
     },
     {
       "filename": "VanillaBackport-neoforge-1.21.1-1.1.7.6.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/VanillaBackport-neoforge-1.21.1-1.1.7.6.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/VanillaBackport-neoforge-1.21.1-1.1.7.6.jar",
       "sha256": "9b12deb39ab53e461dd39a1865a98c79874a679071126dac334c3fd7bf97c0d1"
     },
     {
       "filename": "VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
       "sha256": "a5bb002229e30a44237282371cff48baf6e889bc69b5753e70323e1d41c0616d"
     },
     {
       "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
     },
     {
       "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04"
     },
     {
       "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
       "sha256": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4"
     },
     {
       "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
       "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff"
     },
     {
       "filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
       "sha256": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
     },
     {
       "filename": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "sha256": "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20"
     },
     {
       "filename": "[1.21.1] SecurityCraft v1.10.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/[1.21.1] SecurityCraft v1.10.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/[1.21.1] SecurityCraft v1.10.1.jar",
       "sha256": "cce82e9f2b74b2c678241a24eeca6c656a07f55f73e16d4d860591db5ed4435f"
     },
     {
       "filename": "advanced-xray-neoforge-21.0.0.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/advanced-xray-neoforge-21.0.0.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/advanced-xray-neoforge-21.0.0.jar",
       "sha256": "7311748ea1e2239e2a289d8aa64e73c6f48ac598219791f8719336dd49a7bbb6"
     },
     {
       "filename": "alloyed-3.0.9+1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/alloyed-3.0.9+1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/alloyed-3.0.9+1.21.1-neoforge.jar",
       "sha256": "d32e68e20733859cb2fa2ca5ed3141a240a96c1aacd6259ae44afea00eb16929"
     },
     {
       "filename": "alternate_current-mc1.21-1.9.0.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/alternate_current-mc1.21-1.9.0.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/alternate_current-mc1.21-1.9.0.jar",
       "sha256": "d23731fcb31cf561544fd7a97b0076b3abb42a0ece0631f86de9a1425fe046f5"
     },
     {
       "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/appleskin-neoforge-mc1.21-3.0.9.jar",
       "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
     },
     {
       "filename": "architectury-13.0.8-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/architectury-13.0.8-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/architectury-13.0.8-neoforge.jar",
       "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
     },
     {
       "filename": "artifacts-neoforge-13.2.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/artifacts-neoforge-13.2.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/artifacts-neoforge-13.2.1.jar",
       "sha256": "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
     },
     {
       "filename": "attributefix-neoforge-1.21.1-21.1.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/attributefix-neoforge-1.21.1-21.1.3.jar",
       "sha256": "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4"
     },
     {
       "filename": "balm-neoforge-1.21.1-21.0.58.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/balm-neoforge-1.21.1-21.0.58.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/balm-neoforge-1.21.1-21.0.58.jar",
       "sha256": "aa2463747bad4c2351869226ea7bce7839510dfd2ac387f8d1588b1ce9309c67"
     },
     {
       "filename": "bclib-21.0.20.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/bclib-21.0.20.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/bclib-21.0.20.jar",
       "sha256": "412723f96aa195d9d96028eb97fa367f1f3c43078e504f4c545ad82bc37e49b2"
     },
     {
       "filename": "bettercombat-neoforge-2.3.2+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/bettercombat-neoforge-2.3.2+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/bettercombat-neoforge-2.3.2+1.21.1.jar",
       "sha256": "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9"
     },
     {
       "filename": "bettercombat-punchy-fix-1.0.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/bettercombat-punchy-fix-1.0.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/bettercombat-punchy-fix-1.0.1.jar",
       "sha256": "c225ef9dd1e61f93afce34b184f904bb6222c9c7f1cbf283ae0d9a1cd60babbc"
     },
     {
       "filename": "betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
       "sha256": "03acad0637dd5d86361178eb3e87ad8f2ed965e9c84514df4dc4228bb24aa2aa"
     },
     {
       "filename": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
       "sha256": "9e230bd509e7aeb3af4c08125db0340734c0179d83483649a16e45c0ea085e8c"
     },
     {
       "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "sha256": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
     },
     {
       "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
       "sha256": "2735b16e136e51c03c9a8211fbecaf9d571a28475981223c60662465664f5322"
     },
     {
       "filename": "carryon-neoforge-1.21.1-2.2.4.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/carryon-neoforge-1.21.1-2.2.4.4.jar",
       "sha256": "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"
     },
     {
       "filename": "chat_heads-0.15.1-neoforge-1.21.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/chat_heads-0.15.1-neoforge-1.21.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/chat_heads-0.15.1-neoforge-1.21.jar",
       "sha256": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
     },
     {
       "filename": "cloth-config-15.0.140-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/cloth-config-15.0.140-neoforge.jar",
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
     },
     {
       "filename": "collective-1.21.1-8.39.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/collective-1.21.1-8.39.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/collective-1.21.1-8.39.jar",
       "sha256": "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe"
     },
     {
       "filename": "colorwheel-neoforge-1.2.8+mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/colorwheel-neoforge-1.2.8+mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/colorwheel-neoforge-1.2.8+mc1.21.1.jar",
       "sha256": "9c394734464ffaee257d43e465112ea571aa43bd2bd60f48a78cc61381ca5df6"
     },
     {
       "filename": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
       "sha256": "2285a5154739d2e9889d979e3bdf54104b56d7966dac8d43367305e5aaedcce8"
     },
     {
       "filename": "comforts-neoforge-9.0.5+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/comforts-neoforge-9.0.5+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/comforts-neoforge-9.0.5+1.21.1.jar",
       "sha256": "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
     },
     {
       "filename": "copperagebackport-neoforge-1.21.1-0.1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/copperagebackport-neoforge-1.21.1-0.1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/copperagebackport-neoforge-1.21.1-0.1.4.jar",
       "sha256": "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"
     },
     {
       "filename": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/copycats-3.0.4+mc.1.21.1-neoforge.jar",
       "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
     },
     {
       "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/coroutil-neoforge-1.21.0-1.3.8.jar",
       "sha256": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826"
     },
     {
       "filename": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
       "sha256": "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f"
     },
     {
       "filename": "craftableenchantedgoldenapple-1.21.1-0.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/craftableenchantedgoldenapple-1.21.1-0.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/craftableenchantedgoldenapple-1.21.1-0.1.jar",
       "sha256": "2645f59cdb82679d5d7fa7a07aed8800b6fb8e1aff11175a9d48a138df1a3596"
     },
     {
       "filename": "crashexploitfixer-neoforge-2.0.0+1.21.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/crashexploitfixer-neoforge-2.0.0+1.21.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/crashexploitfixer-neoforge-2.0.0+1.21.4.jar",
       "sha256": "32c7be498962d54b28dfb902c1509596442048a3ae72bd3f7884ab853d0e4464"
     },
     {
       "filename": "create-1.21.1-6.0.10.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create-1.21.1-6.0.10.jar",
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
     },
     {
       "filename": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create-aeronautics-bundled-1.21.1-1.2.1.jar",
       "sha256": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
     },
     {
       "filename": "create-confectionery1.21.1_v1.1.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create-confectionery1.21.1_v1.1.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create-confectionery1.21.1_v1.1.2.jar",
       "sha256": "abf25a26f4e814bc208e60ddbe53a52bbd7638fb689184dd220b2146190b43b3"
     },
     {
       "filename": "create-enchantment-industry-2.3.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create-enchantment-industry-2.3.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create-enchantment-industry-2.3.1.jar",
       "sha256": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064"
     },
     {
       "filename": "create-renewable-egapples-1.0.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create-renewable-egapples-1.0.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create-renewable-egapples-1.0.1.jar",
       "sha256": "fbac8a1fcbc6349183f2404033c2705d4e40d985dde0ef7fe9a95ba113d95a95"
     },
     {
       "filename": "create_connected-1.2.0-mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_connected-1.2.0-mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_connected-1.2.0-mc1.21.1.jar",
       "sha256": "4cd981c0ef9eaca586ff95e934937dc2834c9693ec58502501045efff262dd62"
     },
     {
       "filename": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
       "sha256": "1882e3102771ed2db4ba7f62c0b500d7a40e4d2c1823700c2fa55a75b77359f9"
     },
     {
       "filename": "create_enchantment_industry_plus-1.1.1-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_enchantment_industry_plus-1.1.1-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_enchantment_industry_plus-1.1.1-1.21.1.jar",
       "sha256": "c870d54f765b7cbb76da3fa666651ea3ef84b4db46f9542e6823fb19aff9e2c4"
     },
     {
       "filename": "create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
       "sha256": "b373a5a1483ba903ff9b696ffbf45b3e47aa514fed0fc880f7dbb6b9e8d293b0"
     },
     {
       "filename": "create_pattern_schematics-2.0.10.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_pattern_schematics-2.0.10.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_pattern_schematics-2.0.10.jar",
       "sha256": "d6525b9ab9914a194ca5aa00e6605f5977d8ac28722cdccce018da44f62bc5c5"
     },
     {
       "filename": "create_power_loader-2.0.5-mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_power_loader-2.0.5-mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_power_loader-2.0.5-mc1.21.1.jar",
       "sha256": "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7"
     },
     {
       "filename": "create_quartz_to_experience-v0.1.4-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_quartz_to_experience-v0.1.4-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_quartz_to_experience-v0.1.4-1.21.1.jar",
       "sha256": "94f9a5fa85eed7ee79ea6e2a36f126a3bed40cf47bd5a1fb3fa1f36c000ed640"
     },
     {
       "filename": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "sha256": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0"
     },
     {
       "filename": "create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
       "sha256": "9045ddb89956e2cd65af048d6b6d61bf717783cb40d8f3c1c298a077d1b79572"
     },
     {
       "filename": "create_wizardry-1.21.1-0.4.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/create_wizardry-1.21.1-0.4.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/create_wizardry-1.21.1-0.4.2.jar",
       "sha256": "4d7a7d4ec6d3b58c1ae3b85dc1723a629d2e9b298e147fd305170cd6d7e2fd98"
     },
     {
       "filename": "createaddition-1.5.11.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createaddition-1.5.11.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createaddition-1.5.11.jar",
       "sha256": "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd"
     },
     {
       "filename": "createbigcannons-5.11.5+mc.1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createbigcannons-5.11.5+mc.1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createbigcannons-5.11.5+mc.1.21.1.jar",
       "sha256": "2c0576338ec400bef5ca373650e3e919eee602c002ce1b7b6eb0f69f3c67764a"
     },
     {
       "filename": "createcobblestone-1.4.10+neoforge-1.21.1-139.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createcobblestone-1.4.10+neoforge-1.21.1-139.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createcobblestone-1.4.10+neoforge-1.21.1-139.jar",
       "sha256": "6b6fadb3c53aed250fb3c1c9e6bd5b88ee03acf27e1c337b30dd96df1ab74b1f"
     },
     {
       "filename": "createcrafts-1.0.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createcrafts-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createcrafts-1.0.0-neoforge-1.21.1.jar",
       "sha256": "78deb842a453f28852d2919ae7d5bed4a8b5e3c971ed84fa7085cd557d868cb0"
     },
     {
       "filename": "createdeco-2.1.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createdeco-2.1.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createdeco-2.1.3.jar",
       "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
     },
     {
       "filename": "createdieselgenerators-1.21.1-1.3.12.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createdieselgenerators-1.21.1-1.3.12.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createdieselgenerators-1.21.1-1.3.12.jar",
       "sha256": "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
     },
     {
       "filename": "createnuclear-1.3.2-beta.3-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createnuclear-1.3.2-beta.3-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createnuclear-1.3.2-beta.3-neoforge.jar",
       "sha256": "0d33c608c756ef5e293f1734403050d64c9651332a311e7aaf01370f40d9b1e3"
     },
     {
       "filename": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
       "sha256": "cac002b0fb77ec1dd48cf76a07dd5f2341b632788e1add768cf5c555823e4b38"
     },
     {
       "filename": "cristellib-neoforge-1.21.1-3.1.6.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/cristellib-neoforge-1.21.1-3.1.6.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/cristellib-neoforge-1.21.1-3.1.6.jar",
       "sha256": "856e5e62ec25fb1e8b86c83c38a56a128cae1ed4e2b4f2cf426c887b5ecff6a2"
     },
     {
       "filename": "crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
       "sha256": "4520de01496893d5cb80faaaeadf67b03481ebe769e11caffaa02bb12fe3bcd1"
     },
     {
       "filename": "cupboard-1.21-3.5.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/cupboard-1.21-3.5.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/cupboard-1.21-3.5.jar",
       "sha256": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db"
     },
     {
       "filename": "curios-neoforge-9.5.1+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/curios-neoforge-9.5.1+1.21.1.jar",
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
     },
     {
       "filename": "deeperdarker-neoforge-1.21.1-1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/deeperdarker-neoforge-1.21.1-1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/deeperdarker-neoforge-1.21.1-1.4.jar",
       "sha256": "1ab9be467644c31fba6231089a44f8173ffda21aaa7e5360358ae1b03a5b55e2"
     },
     {
       "filename": "double_jump-1.0.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/double_jump-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/double_jump-1.0.0-neoforge-1.21.1.jar",
       "sha256": "147740b2c60f237f84e8ce9271aa492a9ff4cd5f02f1d828e164fc42a0f67e26"
     },
     {
       "filename": "drivebywire-0.2.9.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/drivebywire-0.2.9.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/drivebywire-0.2.9.jar",
       "sha256": "5f8eaa10a6d61aa7330ed997c4f812509c55f02f7213afbebde77c4af17c23c3"
     },
     {
       "filename": "durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
       "sha256": "4a2353159c6039d8ce090f7d399ae421e648fdacb7f29a18c67b58886b36f32c"
     },
     {
       "filename": "eatinganimation-1.21.0-6.0.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/eatinganimation-1.21.0-6.0.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/eatinganimation-1.21.0-6.0.1.jar",
       "sha256": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb"
     },
     {
       "filename": "effortlessbuilding-4.1+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/effortlessbuilding-4.1+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/effortlessbuilding-4.1+1.21.1.jar",
       "sha256": "85ff9ced42b221c819bd958bd57ee447c0e7bb39bd3531476a1e0a31df3375d7"
     },
     {
       "filename": "emi-1.1.24+1.21.1+neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/emi-1.1.24+1.21.1+neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/emi-1.1.24+1.21.1+neoforge.jar",
       "sha256": "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
     },
     {
       "filename": "emi_create_schematics-1.1.0.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/emi_create_schematics-1.1.0.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/emi_create_schematics-1.1.0.jar",
       "sha256": "2b5cac7e2be8505ff555f679f2c71b717b7be883f1e01f7d8e97c586019947a7"
     },
     {
       "filename": "enchdesc-neoforge-1.21.1-21.1.9.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/enchdesc-neoforge-1.21.1-21.1.9.jar",
       "sha256": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843"
     },
     {
       "filename": "entity_model_features-3.2.4-1.21-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/entity_model_features-3.2.4-1.21-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/entity_model_features-3.2.4-1.21-neoforge.jar",
       "sha256": "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
     },
     {
       "filename": "entity_texture_features_1.21-neoforge-7.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/entity_texture_features_1.21-neoforge-7.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/entity_texture_features_1.21-neoforge-7.1.jar",
       "sha256": "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
     },
     {
       "filename": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/entityculling-neoforge-1.10.2-mc1.21.1.jar",
       "sha256": "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd"
     },
     {
       "filename": "expandeddelight-0.1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/expandeddelight-0.1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/expandeddelight-0.1.4.jar",
       "sha256": "35e9f833432a7a7d25c24e85289a6f58e2cbe2e1cf43b9c0cfef7d5752d04394"
     },
     {
       "filename": "faewulf_lib-neoforge-1.21.1-1.3.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/faewulf_lib-neoforge-1.21.1-1.3.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/faewulf_lib-neoforge-1.21.1-1.3.2.jar",
       "sha256": "d499543ea883bebc5453e8e855ea221de60891e3a3aad66d94bfa470a326ee1d"
     },
     {
       "filename": "fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
       "sha256": "ce3605a2737dc7d1e5c5b70ea78664e9eb6804b8a6eeb49cb5805be359cc4cee"
     },
     {
       "filename": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
       "sha256": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a"
     },
     {
       "filename": "fastpaintings-1.21-1.3.0-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/fastpaintings-1.21-1.3.0-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/fastpaintings-1.21-1.3.0-neoforge.jar",
       "sha256": "782afb6f4c631c9d3313b6442d304b36336f794273dfa5c381485142020ca05a"
     },
     {
       "filename": "ferritecore-7.0.3-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/ferritecore-7.0.3-neoforge.jar",
       "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
     },
     {
       "filename": "forest_survival_treehouse-1.0.0-neoforge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/forest_survival_treehouse-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/forest_survival_treehouse-1.0.0-neoforge-1.21.1.jar",
       "sha256": "f38e0b36a157dae0dd3aa4df9b060eb34949272fd114c9119db9436bbea02b9d"
     },
     {
       "filename": "freecam-neoforge-1.3.0+mc1.21.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/freecam-neoforge-1.3.0+mc1.21.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/freecam-neoforge-1.3.0+mc1.21.jar",
       "sha256": "09b865a3987a0f1c87bcc9430550ccc4107729f29bff53a1cd5ab1e9c3d82376"
     },
     {
       "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/fzzy_config-0.7.6+1.21+neoforge.jar",
       "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
     },
     {
       "filename": "geckolib-neoforge-1.21.1-4.8.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/geckolib-neoforge-1.21.1-4.8.4.jar",
       "sha256": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
     },
     {
       "filename": "getittogetherdrops-neoforge-1.21.5-1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/getittogetherdrops-neoforge-1.21.5-1.4.jar",
       "sha256": "a09466d03e3dde0c0f5c179146a8247b33a720a88979eb813c5f2aa2ad1c7a78"
     },
     {
       "filename": "gml-6.0.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/gml-6.0.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/gml-6.0.2.jar",
       "sha256": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd"
     },
     {
       "filename": "gnetum-3.3.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/gnetum-3.3.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/gnetum-3.3.4.jar",
       "sha256": "ff0d54a1d6875eab2c541be8e44b7ecd3ea32dda249ed683d7ff644debc24d0a"
     },
     {
       "filename": "immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
       "sha256": "953222fefb9439b74760583d46dbf620ed85cc614f5ab629aec05ab6ce40ebe7"
     },
     {
       "filename": "immersive_optimization-neoforge-1.21-0.1.5.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/immersive_optimization-neoforge-1.21-0.1.5.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/immersive_optimization-neoforge-1.21-0.1.5.jar",
       "sha256": "730bd2db84b0d8d8d12ca9b5c0e6d57523fc819c6b6ddc059870659f2ddd22f4"
     },
     {
       "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/interiors-1.21.1-neoforge-0.6.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/interiors-1.21.1-neoforge-0.6.1.jar",
       "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
     },
     {
       "filename": "inventoryhud.neoforged.1.21.1-3.4.28.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/inventoryhud.neoforged.1.21.1-3.4.28.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/inventoryhud.neoforged.1.21.1-3.4.28.jar",
       "sha256": "1bbd368273b299857ccdb236d096169d289513f67e7561d4743375b55f5a584a"
     },
     {
       "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/iris-neoforge-1.8.12+mc1.21.1.jar",
       "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
     },
     {
       "filename": "irons_lib-1.21.1-1.0.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/irons_lib-1.21.1-1.0.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/irons_lib-1.21.1-1.0.2.jar",
       "sha256": "650900b0f6561a74d6e2129a9094fd0b8a9eea0a60d2a580261e0d4b25fcaf22"
     },
     {
       "filename": "irons_spellbooks-1.21.1-3.15.6.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/irons_spellbooks-1.21.1-3.15.6.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/irons_spellbooks-1.21.1-3.15.6.jar",
       "sha256": "ba1f1986ca706ae348cb6fce6e383ab7cc61c375826ccf0e4d3a88ed2f9fcd3d"
     },
     {
       "filename": "journeymap-neoforge-1.21.1-6.0.0-beta.79.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/journeymap-neoforge-1.21.1-6.0.0-beta.79.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/journeymap-neoforge-1.21.1-6.0.0-beta.79.jar",
       "sha256": "bae4928a428784e7cd4d8f0d1131e78c203682d7add4f4acf54cf99936bdee69"
     },
     {
       "filename": "jupiter-2.3.7-1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/jupiter-2.3.7-1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/jupiter-2.3.7-1.21.1-neoforge.jar",
       "sha256": "95af332af250f97fe2d9d288fe6b2057c266673a388348bf33756b0b693ace15"
     },
     {
       "filename": "just-hammers-neoforge-21.1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/just-hammers-neoforge-21.1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/just-hammers-neoforge-21.1.4.jar",
       "sha256": "59487c8758fd762fcddc58e3b5e8a956de3f6a2115cd1c6f9a915939f5f985d8"
     },
     {
       "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
     },
     {
       "filename": "kotlinforforge-5.11.0-all.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/kotlinforforge-5.11.0-all.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/kotlinforforge-5.11.0-all.jar",
       "sha256": "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
     },
     {
       "filename": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
       "sha256": "05ebe849611daafe533fc57ed9b5156edfa9157ced04d38a7860b1e2075984b9"
     },
     {
       "filename": "lambdynamiclights-4.8.8+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/lambdynamiclights-4.8.8+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/lambdynamiclights-4.8.8+1.21.1.jar",
       "sha256": "5c41d55ad9306f8d0a8c1b0174d71a3e333026b08adb6883653cd91ab6c5bea0"
     },
     {
       "filename": "letmedespawn-1.21.x-neoforge-1.5.0.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/letmedespawn-1.21.x-neoforge-1.5.0.jar",
       "sha256": "074ffdbe34bf97b7d15fa4db7cfff547578a9c2f547479128a43d184c4ca642a"
     },
     {
       "filename": "lionfishapi-3.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/lionfishapi-3.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/lionfishapi-3.1.jar",
       "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6"
     },
     {
       "filename": "lithium-neoforge-0.15.3+mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/lithium-neoforge-0.15.3+mc1.21.1.jar",
       "sha256": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
     },
     {
       "filename": "lithostitched-1.7.9-neoforge-21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/lithostitched-1.7.9-neoforge-21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/lithostitched-1.7.9-neoforge-21.1.jar",
       "sha256": "9da5826e349f8a58dca526f7afcec9cdd7d6906577945242c87462aa6debcdee"
     },
     {
       "filename": "logbegone-neoforge-1.21.1-1.0.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/logbegone-neoforge-1.21.1-1.0.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/logbegone-neoforge-1.21.1-1.0.3.jar",
       "sha256": "0ee3005ffa553aed37a313ad43dd5947080c45bcbaa8ed8cd4e00342321ff6a9"
     },
     {
       "filename": "lootr-neoforge-1.21.1-1.11.37.120.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/lootr-neoforge-1.21.1-1.11.37.120.jar",
       "sha256": "f7b80bf86e02a1107fb1600aa6a02608ebcddb140b123a42d5ee199e5db65c8d"
     },
     {
       "filename": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/maxhealthfix-neoforge-1.21.1-21.1.4.jar",
       "sha256": "762f7ecc02070781119ba50d82c79a5d8c512bb8c78f6dfae0bcc667f7430105"
     },
     {
       "filename": "mechanicals-1.21.1-1.1.0.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/mechanicals-1.21.1-1.1.0.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/mechanicals-1.21.1-1.1.0.jar",
       "sha256": "122c03b1b94bcf515056e197bcc14527e4f91306d8e38b76ba195ab64f8e05de"
     },
     {
       "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/melody_neoforge_1.0.10_MC_1.21.jar",
       "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
     },
     {
       "filename": "minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
       "sha256": "87888ffccb35e367c47a3e3a35a9adb12d0ab9b414652e183f4d05f63ca58c62"
     },
     {
       "filename": "modernfix-neoforge-5.27.11+mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/modernfix-neoforge-5.27.11+mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/modernfix-neoforge-5.27.11+mc1.21.1.jar",
       "sha256": "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145"
     },
     {
       "filename": "moonlight-neoforge-1.21.1-3.0.14.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/moonlight-neoforge-1.21.1-3.0.14.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/moonlight-neoforge-1.21.1-3.0.14.jar",
       "sha256": "7ec257edce1d4783d3a5143f3f237dd060d3140a2dfcf46522a5052111072acd"
     },
     {
       "filename": "neobeefix-1.21.1-2.0.0.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/neobeefix-1.21.1-2.0.0.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/neobeefix-1.21.1-2.0.0.jar",
       "sha256": "0dd3091b81c83110941d84d16e426e5a244836fdd701625c0acf9755b4f57464"
     },
     {
       "filename": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
       "sha256": "ca097cd53fcdabecbcbf22e2515eb1956f313f094cd3a0506800ebf239e255f9"
     },
     {
       "filename": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
       "sha256": "ac48316842b478777cead0a39e7c8a51810ffa1d848d8ad8f3f56d03eedc5549"
     },
     {
       "filename": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
       "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
     },
     {
       "filename": "particular-1.21.1-NeoForge-1.5.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/particular-1.21.1-NeoForge-1.5.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/particular-1.21.1-NeoForge-1.5.3.jar",
       "sha256": "38dad14201afd1b8d0fa142169d3aa016b25526e9d37100fcf6797501e59a9fb"
     },
     {
       "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
     },
     {
       "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/polymorph-neoforge-1.1.0+1.21.1.jar",
       "sha256": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
     },
     {
       "filename": "potentials-neoforge-1.21-0.7.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/potentials-neoforge-1.21-0.7.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/potentials-neoforge-1.21-0.7.1.jar",
       "sha256": "b09ac57b03593b62e044b5e73536c369598f5181180050942f973210bfdf4cc7"
     },
     {
       "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/prickle-neoforge-1.21.1-21.1.11.jar",
       "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
     },
     {
       "filename": "punchy-2.5.5b-neoforge-1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/punchy-2.5.5b-neoforge-1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/punchy-2.5.5b-neoforge-1.21.1.jar",
       "sha256": "9195a46feb7e2fd6d8119234aa75c661fdfa214784b209962dc9b311e73610a1"
     },
     {
       "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "sha256": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4"
     },
     {
       "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/resourcefullib-neoforge-1.21-3.0.12.jar",
       "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
     },
     {
       "filename": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
       "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
     },
     {
       "filename": "sable-neoforge-1.21.1-1.2.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/sable-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/sable-neoforge-1.21.1-1.2.2.jar",
       "sha256": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
     },
     {
       "filename": "saturn-mc1.21.1-0.1.5.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/saturn-mc1.21.1-0.1.5.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/saturn-mc1.21.1-0.1.5.jar",
       "sha256": "f49f4b51faeb4e9eb7568723fa259c0da1c3460f8019597f04a54c2137b76c32"
     },
     {
       "filename": "seamlesssleep-neoforge-1.21-2.5.3.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/seamlesssleep-neoforge-1.21-2.5.3.jar",
       "sha256": "01e92fdc4a3a72bcfd5432ccbdec2c14c6e2b7eb14b38f0db9b0251f3b4ea313"
     },
     {
       "filename": "servercore-neoforge-1.5.17+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/servercore-neoforge-1.5.17+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/servercore-neoforge-1.5.17+1.21.1.jar",
       "sha256": "5d3b3ac3fc61ef304af929cec2637481eed211fc694d6074258e02abbcfe3467"
     },
     {
       "filename": "simple-day-display-48.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/simple-day-display-48.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/simple-day-display-48.jar",
       "sha256": "a08ad41f842d8c859dc8216270b7c9b3c251641624db7a933edd8dc7b34f4fed"
     },
     {
       "filename": "sit-1.21.1-1.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/sit-1.21.1-1.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/sit-1.21.1-1.4.jar",
       "sha256": "a726385d1c6781f93906dce38d125fe5f4da32b10ae5601bf855773939603c04"
     },
     {
       "filename": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
       "sha256": "c825d6acd41a983217f410c6d51c6557e3afc35131f6da0aa6dcd07e67cfa52c"
     },
     {
       "filename": "skinrestorer-2.7.0+1.21-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/skinrestorer-2.7.0+1.21-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/skinrestorer-2.7.0+1.21-neoforge.jar",
       "sha256": "b6497a57a05f531f399a29b8f7b3643294c7e81ae48e251406a7c2f4294734d0"
     },
     {
       "filename": "sliceanddice-forge-4.2.4.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/sliceanddice-forge-4.2.4.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/sliceanddice-forge-4.2.4.jar",
       "sha256": "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
     },
     {
       "filename": "smoothchunk-1.21-4.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/smoothchunk-1.21-4.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/smoothchunk-1.21-4.1.jar",
       "sha256": "a79f06eaffe7e5b834620da3c2cdad782aeaf4f1f207d03f8b0228a20bab65e3"
     },
     {
       "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
     },
     {
       "filename": "sophisticatedbackpacks-1.21.1-3.25.49.1791.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/sophisticatedbackpacks-1.21.1-3.25.49.1791.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/sophisticatedbackpacks-1.21.1-3.25.49.1791.jar",
       "sha256": "3646fe95593f7c02670bb0ba20a568cecc8d3afa7b81a1b928472f35ea44a55a"
     },
     {
       "filename": "sophisticatedcore-1.21.1-1.4.42.1892.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/sophisticatedcore-1.21.1-1.4.42.1892.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/sophisticatedcore-1.21.1-1.4.42.1892.jar",
       "sha256": "f73de1e89b9a0a1226a0fab99477fa346d8476b1faf25ff0ff298b29e9c7a086"
     },
     {
       "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "sha256": "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
     },
     {
       "filename": "spark-1.10.124-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/spark-1.10.124-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/spark-1.10.124-neoforge.jar",
       "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
     },
     {
       "filename": "stellaris-1.21-neoforge-1.4.23.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/stellaris-1.21-neoforge-1.4.23.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/stellaris-1.21-neoforge-1.4.23.jar",
       "sha256": "c201124207c358981c2c43d62b12f74c61faecf6bdf939ca394f543ac927a2cc"
     },
     {
       "filename": "structure_layout_optimizer-neoforge-1.0.12.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/structure_layout_optimizer-neoforge-1.0.12.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/structure_layout_optimizer-neoforge-1.0.12.jar",
       "sha256": "ef8eb29c5c4f111c74a49d379843e4c2f51d11b28c8116a49be13636c83f4385"
     },
     {
       "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
     },
     {
       "filename": "supplementaries-neoforge-1.21.1-3.6.6.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/supplementaries-neoforge-1.21.1-3.6.6.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/supplementaries-neoforge-1.21.1-3.6.6.jar",
       "sha256": "2da254e27f1764005413f8361d39b106fc217bb2dd50ad972afc274f047e8a2d"
     },
     {
       "filename": "tempad-1.21.1-3.0.4-all.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/tempad-1.21.1-3.0.4-all.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/tempad-1.21.1-3.0.4-all.jar",
       "sha256": "932dd8a1cbb86d7632330ee3b9da43211b7c7a2fb6246443fd8207f74a74eba3"
     },
     {
       "filename": "tombstone-neoforge-1.21.1-9.4.9.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/tombstone-neoforge-1.21.1-9.4.9.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/tombstone-neoforge-1.21.1-9.4.9.jar",
       "sha256": "3d085af0cefb5e68e1035a21d0f44cd1bb7dc631b681b761141811d691b33ece"
     },
     {
       "filename": "toms_storage-1.21-2.4.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/toms_storage-1.21-2.4.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/toms_storage-1.21-2.4.2.jar",
       "sha256": "a703e28391b914298223a515238c8729007606f2f967a83b65b8d5cb39e0789d"
     },
     {
       "filename": "toomanyrecipeviewers-0.8.1+mc.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/toomanyrecipeviewers-0.8.1+mc.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/toomanyrecipeviewers-0.8.1+mc.21.1.jar",
       "sha256": "d9a6a25eb32aa932b01c5e017ebf99724e0e6602792c7d32f1a3734733c04ce4"
     },
     {
       "filename": "touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
       "sha256": "f6db04195820c8508704277ea76d63723804ff236a7b780369ba59ebe5cd9c27"
     },
     {
       "filename": "tracks_plus-1.0.5.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/tracks_plus-1.0.5.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/tracks_plus-1.0.5.jar",
       "sha256": "b2a8cb466cfce2cbf0078e713ae0500c332aed95b4e1819d17e3539282d8515b"
     },
     {
       "filename": "trading_floor-3.0.16.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/trading_floor-3.0.16.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/trading_floor-3.0.16.jar",
       "sha256": "f0aacddb1f8f191f13b79c603e52bd49a6d1cb918078d8a3bdcb2621c88b8d40"
     },
     {
       "filename": "trashslot-neoforge-1.21.1-21.1.11.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/trashslot-neoforge-1.21.1-21.1.11.jar",
       "sha256": "61fdb5de0fc3d36db0e5dd82c2e03341e449bbc47ce13eeab834b05596b7bb5b"
     },
     {
       "filename": "twilightforest-1.21.1-4.8.3345-universal.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/twilightforest-1.21.1-4.8.3345-universal.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/twilightforest-1.21.1-4.8.3345-universal.jar",
       "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
     },
     {
       "filename": "uranus-2.4.1-1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/uranus-2.4.1-1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/uranus-2.4.1-1.21.1-neoforge.jar",
       "sha256": "2156a9b353bccfb1f0bf703561a74146ea8803323c48e9b8aef5fab8d58e1d1e"
     },
     {
       "filename": "veinminer-neoforge-2.11.2+1.21.1.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/veinminer-neoforge-2.11.2+1.21.1.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/veinminer-neoforge-2.11.2+1.21.1.jar",
       "sha256": "2d70ecdbf24b7e5e3ab6f19715dcb37d956931e0b65e7026b4d5524e002c46e4"
     },
     {
       "filename": "voicechat-neoforge-1.21.1-2.6.18.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/voicechat-neoforge-1.21.1-2.6.18.jar",
       "sha256": "fb0dc1f4bb36f471fafc86fee12b963f036ddf8d4622653509d884bbed96b1e5"
     },
     {
       "filename": "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
       "sha256": "bd118e6b3a7740dc14b21ddb9ba771acf152b4fd9e098b99aab72185fc3b1108"
     },
     {
       "filename": "watermedia-2.1.37.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/watermedia-2.1.37.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/watermedia-2.1.37.jar",
       "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
     },
     {
       "filename": "watermedia_youtube_plugin-2.1.2.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/watermedia_youtube_plugin-2.1.2.jar",
       "sha256": "95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e"
     },
     {
       "filename": "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
       "sha256": "3568da15d2687137b59aa2361c8fa0259d2a4774978fb3658c9c2cce9923a2d2"
     },
     {
       "filename": "waystones-neoforge-1.21.1-21.1.34.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/waystones-neoforge-1.21.1-21.1.34.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/waystones-neoforge-1.21.1-21.1.34.jar",
       "sha256": "1d9e5292ec49d99af9d3a420de2f3df847816aec081d2068c9e6017e4e6bfc32"
     },
     {
       "filename": "worldweaver-21.0.20.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/worldweaver-21.0.20.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/worldweaver-21.0.20.jar",
       "sha256": "adddd64cca860625c48b5382d61cae67d405ec629c5d696d0f7f59df78107dcb"
     },
     {
       "filename": "wunderlib-21.0.10.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/wunderlib-21.0.10.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/wunderlib-21.0.10.jar",
       "sha256": "b49c7a040f87ade1e3f73bd7335e8d68ff7a328919c192a6d2c022bae6786a2f"
     },
     {
       "filename": "wwoo-neoforge-2.6.7.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/wwoo-neoforge-2.6.7.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/wwoo-neoforge-2.6.7.jar",
       "sha256": "db99e41c3dd8f12c795fd00d08ee324308d54f8009bbbc9992055999e891bd0f"
     },
     {
       "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/tag/v1.0.0/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://github.com/24juancho08/LauncherMinecraftEG9/releases/v1.0.0/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
     }
   ]
